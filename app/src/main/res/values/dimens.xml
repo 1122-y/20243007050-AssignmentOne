@@ -10,7 +10,7 @@
 
     <!-- Detail screen -->
     <dimen name="detail_banner_padding">16dp</dimen>
-    <dimen name="detail_icon_size">96dp</dimen>
+    <dimen name="detail_icon_size">120dp</dimen>
     <dimen name="detail_content_padding">16dp</dimen>
     <dimen name="detail_heading_margin">8dp</dimen>
     <dimen name="detail_line_spacing">2dp</dimen>
