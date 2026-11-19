@@ -12,4 +12,9 @@
 
     <!-- %1$s is replaced with the name of the topic that was pressed. -->
     <string name="toast_topic_clicked">%1$s clicked</string>
+
+    <!-- Placeholder text of the detail screen, replaced by arrays.xml data. -->
+    <string name="detail_heading_placeholder">This is a title</string>
+    <string name="detail_content_placeholder">This is content</string>
+    <string name="detail_icon_description">Icon of the selected topic</string>
 </resources>

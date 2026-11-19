@@ -12,6 +12,11 @@
         android:theme="@style/Theme.CampusLife">
 
         <activity
+            android:name=".DetailActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
