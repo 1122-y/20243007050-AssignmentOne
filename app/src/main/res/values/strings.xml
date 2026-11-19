@@ -9,4 +9,7 @@
     <string name="topic_events">Events</string>
     <string name="topic_clubs">Clubs</string>
     <string name="topic_support">Support</string>
+
+    <!-- %1$s is replaced with the name of the topic that was pressed. -->
+    <string name="toast_topic_clicked">%1$s clicked</string>
 </resources>
