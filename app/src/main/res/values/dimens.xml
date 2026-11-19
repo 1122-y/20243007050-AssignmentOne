@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Every length used by the layouts lives here so that the sizes stay in
+         one place. No width or height is hard coded in the layout files. -->
+    <dimen name="grid_padding">2dp</dimen>
+    <dimen name="tile_gap">2dp</dimen>
+    <dimen name="banner_text_padding">24dp</dimen>
+    <dimen name="tile_label_margin">8dp</dimen>
+    <dimen name="tile_icon_padding">8dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="text_tile_label">13sp</dimen>
+</resources>
