@@ -70,6 +70,7 @@
                     android:id="@+id/btn_facilities"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:background="@drawable/button_selector"
                     android:contentDescription="@string/topic_facilities"
                     android:padding="@dimen/tile_icon_padding"
                     android:scaleType="fitCenter"
@@ -81,7 +82,7 @@
                     android:layout_gravity="bottom|center_horizontal"
                     android:layout_marginBottom="@dimen/tile_label_margin"
                     android:text="@string/topic_facilities"
-                    android:textColor="@color/black"
+                    android:textColor="@color/white"
                     android:textSize="@dimen/text_tile_label" />
             </FrameLayout>
 
@@ -95,6 +96,7 @@
                     android:id="@+id/btn_events"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:background="@drawable/button_selector"
                     android:contentDescription="@string/topic_events"
                     android:padding="@dimen/tile_icon_padding"
                     android:scaleType="fitCenter"
@@ -106,7 +108,7 @@
                     android:layout_gravity="bottom|center_horizontal"
                     android:layout_marginBottom="@dimen/tile_label_margin"
                     android:text="@string/topic_events"
-                    android:textColor="@color/black"
+                    android:textColor="@color/white"
                     android:textSize="@dimen/text_tile_label" />
             </FrameLayout>
         </LinearLayout>
@@ -127,6 +129,7 @@
                     android:id="@+id/btn_clubs"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:background="@drawable/button_selector"
                     android:contentDescription="@string/topic_clubs"
                     android:padding="@dimen/tile_icon_padding"
                     android:scaleType="fitCenter"
@@ -138,7 +141,7 @@
                     android:layout_gravity="bottom|center_horizontal"
                     android:layout_marginBottom="@dimen/tile_label_margin"
                     android:text="@string/topic_clubs"
-                    android:textColor="@color/black"
+                    android:textColor="@color/white"
                     android:textSize="@dimen/text_tile_label" />
             </FrameLayout>
 
@@ -152,6 +155,7 @@
                     android:id="@+id/btn_support"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:background="@drawable/button_selector"
                     android:contentDescription="@string/topic_support"
                     android:padding="@dimen/tile_icon_padding"
                     android:scaleType="fitCenter"
@@ -163,7 +167,7 @@
                     android:layout_gravity="bottom|center_horizontal"
                     android:layout_marginBottom="@dimen/tile_label_margin"
                     android:text="@string/topic_support"
-                    android:textColor="@color/black"
+                    android:textColor="@color/white"
                     android:textSize="@dimen/text_tile_label" />
             </FrameLayout>
         </LinearLayout>

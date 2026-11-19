@@ -3,6 +3,13 @@
     <color name="white">#FFFFFFFF</color>
     <color name="black">#FF000000</color>
 
+    <!-- CampusLife brand colours (Part C of the assignment). -->
+    <color name="green">#FF1B5E20</color>
+    <color name="light_green">#FF66BB6A</color>
+
     <!-- Dark wash drawn over the banner photo so the white title stays readable. -->
     <color name="banner_scrim">#66000000</color>
+
+    <!-- Launcher icon background. -->
+    <color name="ic_launcher_background">#FFFFFFFF</color>
 </resources>
